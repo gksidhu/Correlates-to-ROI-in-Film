@@ -3,6 +3,8 @@
 ### Project Goal
 Develop recommendations for the executives of a hypothetical new movie studio to enable a better understanding of the film industry and characteristics of successful films. 
 
+The presentation can be found here: https://docs.google.com/presentation/d/1otHCLTfyhhiU9ZfbPBPAQAuPhdUbNPdqWPvn6c881b4/edit?usp=sharing
+
 ### Folder Contents
 1. **README.md** <br> 
 2. **assignment.md** <br> 
@@ -21,5 +23,4 @@ Develop recommendations for the executives of a hypothetical new movie studio to
     Ignore specified extension files in checkpoint creation <br> 
 9. **.ipynb_checkpoints** <br>
     Monitored project checkpoints <br>
-10. **.DS_Store** <br>
-    Empty? Let's delete this...  
+
