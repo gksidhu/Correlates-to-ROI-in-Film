@@ -1,4 +1,4 @@
-# Project1
+# Title: Correlates to High ROI in Film Production
 
 ### Project Goal
 Develop recommendations for the executives of a hypothetical new movie studio to enable a better understanding of the film industry and characteristics of successful films. 
@@ -7,7 +7,7 @@ The project served as practice cleaning data, merging different datasets, and de
 
 ### Folder Contents
 1. **README.md** <br> 
-2. **Movie ROI Presentation.pdf**
+2. **Movie ROI Presentation.pdf** <br> 
     Presentation based on analysis of daat, conatining three main recommendations
 3. **assignment.md** <br> 
     Description of project goal, availed data, and requirements <br> 
