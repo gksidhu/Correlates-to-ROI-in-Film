@@ -7,7 +7,7 @@ The project served as practice cleaning data, merging different datasets, and de
 
 # Contents:
 1. [Presentation](https://github.com/gksidhu/Project1/tree/master/Presentation) 
-    - Presentation based on analysis of daat, conatining three main recommendations
+    - Presentation based on analysis of data, containing three main recommendations.
 2. [Data Cleaning and Merging](https://github.com/gksidhu/Project1/tree/master/Data_Merging_and_Cleaning)
     - ExploreData2.ipynb
       - Initial exploration of datasets availed <br> 
