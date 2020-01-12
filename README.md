@@ -1,11 +1,11 @@
 # Title: Correlates to High ROI in Film Production
 
-### Project Goal
+# Goal:
 Develop recommendations for the executives of a hypothetical new movie studio to enable a better understanding of the film industry and characteristics of successful films. 
 
 The project served as practice cleaning data, merging different datasets, and developing visualizations with matplotlib.pyplot and seaborn.
 
-### Folder Contents
+# Contents:
 1. **README.md** <br> 
 2. **Movie ROI Presentation.pdf** <br> 
     Presentation based on analysis of daat, conatining three main recommendations
