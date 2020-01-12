@@ -1,11 +1,15 @@
 # Title: Correlates to High ROI in Film Production
 
-# Goal:
+## Contributors:
+- Alex Kaufman (@akaufman10)
+- Nimu Sidhu (@gksidhu)
+
+## Project Goal:
 Develop recommendations for the executives of a hypothetical new movie studio to enable a better understanding of the film industry and characteristics of successful films. 
 
 The project served as practice cleaning data, merging different datasets, and developing visualizations with matplotlib.pyplot and seaborn.
 
-# Contents:
+## Summary of Contents:
 1. [Presentation](https://github.com/gksidhu/Project1/tree/master/Presentation) 
     - Presentation based on analysis of data, containing three main recommendations.
 2. [Data Cleaning and Merging](https://github.com/gksidhu/Project1/tree/master/Data_Merging_and_Cleaning)
